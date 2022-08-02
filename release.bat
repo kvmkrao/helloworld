@@ -1,1 +1,1 @@
-python.exe Release.py py2exe 
+python.exe hello.py py2exe 
